@@ -1,0 +1,10 @@
+C:\SnyderRepos\midwest-core-vue2\aspnetcore-Vue-starter\bin\Debug\netcoreapp2.0\Vue2Spa.deps.json
+C:\SnyderRepos\midwest-core-vue2\aspnetcore-Vue-starter\bin\Debug\netcoreapp2.0\Vue2Spa.runtimeconfig.json
+C:\SnyderRepos\midwest-core-vue2\aspnetcore-Vue-starter\bin\Debug\netcoreapp2.0\Vue2Spa.runtimeconfig.dev.json
+C:\SnyderRepos\midwest-core-vue2\aspnetcore-Vue-starter\bin\Debug\netcoreapp2.0\Vue2Spa.dll
+C:\SnyderRepos\midwest-core-vue2\aspnetcore-Vue-starter\bin\Debug\netcoreapp2.0\Vue2Spa.pdb
+C:\SnyderRepos\midwest-core-vue2\aspnetcore-Vue-starter\obj\Debug\netcoreapp2.0\Vue2Spa.csproj.CoreCompileInputs.cache
+C:\SnyderRepos\midwest-core-vue2\aspnetcore-Vue-starter\obj\Debug\netcoreapp2.0\Vue2Spa.AssemblyInfoInputs.cache
+C:\SnyderRepos\midwest-core-vue2\aspnetcore-Vue-starter\obj\Debug\netcoreapp2.0\Vue2Spa.AssemblyInfo.cs
+C:\SnyderRepos\midwest-core-vue2\aspnetcore-Vue-starter\obj\Debug\netcoreapp2.0\Vue2Spa.dll
+C:\SnyderRepos\midwest-core-vue2\aspnetcore-Vue-starter\obj\Debug\netcoreapp2.0\Vue2Spa.pdb
